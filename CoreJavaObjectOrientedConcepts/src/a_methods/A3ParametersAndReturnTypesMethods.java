@@ -1,4 +1,4 @@
-package methods;
+package a_methods;
 
 public class A3ParametersAndReturnTypesMethods {
 	public static void main(String[] args) {
