@@ -7,7 +7,7 @@ public class B_Car2 {
 	private String driver;
 	private int speed;
 	
-	// Parametrised constructor
+	// parameterised constructor
 	public B_Car2(String doors, String engine, String driver, int speed) {
 		this.doors = doors;
 		this.engine = engine;
