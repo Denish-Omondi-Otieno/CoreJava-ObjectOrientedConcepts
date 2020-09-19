@@ -4,19 +4,19 @@ public class B_RunCar {
 
 	public static void main(String[] args) {
 		
-		// Customized data type
-		B_Car2 B_Car2 = new B_Car2();
+		// Customised data type
+		B_Car2 b_car2 = new B_Car2();
 		
 		// We access the properties of the B_Car2 using getters and setters
-		// We declared them private 
+		// We stated them private 
 		// Using getters and setters we can access them
-		B_Car2.setDoors("closed");
-		B_Car2.setEngine("on");
-		B_Car2.setDriver("seated");
-		B_Car2.setSpeed(30);
+		b_car2.setDoors("closed");
+		b_car2.setEngine("on");
+		b_car2.setDriver("seated");
+		b_car2.setSpeed(30);
 		
 		// Display if Car is running
-		System.out.println(B_Car2.run());
+		System.out.println(b_car2.run());
 		
 		
 
