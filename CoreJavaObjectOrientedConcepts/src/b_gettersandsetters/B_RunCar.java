@@ -8,7 +8,7 @@ public class B_RunCar {
 		B_Car2 b_car2 = new B_Car2();
 		
 		// We access the properties of the B_Car2 using getters and setters
-		// We stated them private 
+		// We state as them private 
 		// Using getters and setters we can access them
 		b_car2.setDoors("closed");
 		b_car2.setEngine("on");
